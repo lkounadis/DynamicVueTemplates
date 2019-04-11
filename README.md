@@ -1,5 +1,4 @@
-# webpack4vue
-VueJS starter with Webpack 4 
+# Dynamically Change Templates of a Vue component using functional components
 
 ## Steps to get started:
 1. Create your parent Component with the logic it should have
