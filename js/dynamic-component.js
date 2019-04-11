@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{28:function(e,t,l){"use strict";l.r(t);var n=function(e,t){var l=t._c;return l("div",[l("h1",[t._v("Proj1: Not another template..")]),t._v(" "),l("div",{staticClass:"hello",on:{click:t.listeners.myClick}},[t._v("Template one "+t._s(t.props.aprop))])])};n._withStripped=!0;var o=l(3),s=Object(o.a)(null,n,[],!0,null,null,null);s.options.__file="src\\pages\\ListProj1.vue";t.default=s.exports}}]);
+//# sourceMappingURL=dynamic-component.js.map
