@@ -6,7 +6,7 @@
   "sideEffects": false,
   "scripts": {
     "proj1": "cross-env NODE_ENV=development VENDOR=proj1  webpack",
-    "proj2": "cross-env NODE_ENV=development VENDOR=proj12  webpack-dev-server --inline --hot",
+    "proj2": "cross-env NODE_ENV=development VENDOR=proj2  webpack-dev-server --inline --hot",
     "dev": "webpack  --mode development",
     "build": "webpack --mode production"
   },
